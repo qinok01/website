@@ -31,8 +31,6 @@ export default function Experience() {
         
         <div className="max-w-screen-xl mx-auto">
 
-        
-            <h2 className="font-semibold p-3 text-lg sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl m-4 text-center" >Projects</h2>
             <div className="w-5/6">
                 {projects && projects.details.map(projectComponent)}
             </div>
