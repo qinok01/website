@@ -1,0 +1,22 @@
+{
+    "details" : [
+        {
+            "title" : "Competitive Forecasting - Metaculus X Bridgewater Associates",
+            "info" : ["Ranked 5th out of 500 undergraduates and 12th out of 850 open division in Bridgewater Associates x Metaculus $25,000 Forecasting competition. ", "Utilized monte-carlo, ARIMA, and other mathematical modeling techniques to achieve high accuracy predictions"],
+            "img" : "https://avatars.githubusercontent.com/u/3240209?s=280&v=4"
+
+        },
+        {
+            "title" : "Facilliator @ Non-Trivial Fellowship",
+            "info" : ["Advised and guided a group of ~10 exceptionally talented students through specific research projects in the realms of AI and policy", "Ran AI Governence journal clubs, advisory sessions and other notable events for the broader cohort of ~100 students."],
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_pc1Q2a243oN-GtTMhLzQGZsX7Ow1Ybs0eChCdONrB_vaQ-RB_czmioZi9Ab4HPsWxI&usqp=CAU"
+
+        },
+        {
+            "title" : "Finacial Analyst Intern @ Interactive Brokers Group",
+            "info" : ["Conducted in-depth competitive research presenting slide decks to upper management on competitive risk and AI integration", "Modeled Option prices with Black Scholes Model using Vix index and other indicators of volatility"],
+            "img" : "https://static.gurufocus.com/cdn-cgi/image/width=500,quality=100/logos/0C00000PUG.png?12"
+        }
+    ]
+
+}

@@ -1,0 +1,27 @@
+{
+    "details" : [
+        {
+            "title" : "Algorithimic Event Contract Trading - Ongoing (Python)",
+            "info" : ["Automated trading of event contracts via Kalshi using various statistical and machine learning including ARIMA, Monte-Carlo, Descision Trees and RNNs", "Utilizing various Weather, Stock Price, and News API's to enhance predicitve accuracy."]
+
+        },
+        {
+            "title" : "Decision-Tree from Scratch - School Related (Java)  ",
+            "info" : ["Implemented decision-tree ML algorithm from scratch in Java that achieved upwards of 98% accuracy on large CSV testsets"]
+
+        },
+        {
+            "title" : "Connect-4 AI - School Related (ReasonML)",
+            "info" : ["Impletented a fully functional Connect-4 AI and Game on NxM board using ReasonML", "Implemented Mini-Max algorithim and well tuned reward function to achieve 100% win-rate against all tested human opponents", "Placed top 3 in AI vs AI Connect 4 tournament"]
+        },
+        {
+            "title" : "Graph Search Optimization Algorithim - School Related (Python)",
+            "info" : ["Wrote an algorithm to optimally traverse edge-paths based on cost, time-efficiency, and other customizable parameters"]
+        },
+        {
+            "title" : "ReasonML-Racket Interpreter - School Related (ReasonML)",
+            "info" : ["Wrote a fully functional interpreter in ReasonML that can processes Racket programs", "Replicates the functionality of DrRacket the standard Racket the standard Graphical Racket Programing Interface"]
+        }
+    ]
+
+}
