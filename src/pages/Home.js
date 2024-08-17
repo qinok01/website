@@ -24,7 +24,7 @@ export default function Home() {
         </p>
         </div>
         </div>
-        <div className="text-lg m-5 mt-5 sm:text-xl md:text-2xl lg:text-3xl xl:4xl text-left font-medium  ">
+        <div className="text-lg m-5 mt-5 sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl text-left font-medium  ">
         <p className="p-4 pl-12 pr-12">Academically, I'm interested in how society functions as a system, algorithmic or statistical approaches to games, and neuromorphic computing. With my interests being so broad, I am looking to opportunities within a wide variety of fields including but not limited to Public Policy Think Tanks, Materials Research, Software Development or Quant-Trading/Research. 
         </p>
 
@@ -32,7 +32,7 @@ export default function Home() {
         </p>
         
 
-        <p className="p-4 pl-12 pr-12">I'm excited to keep learning, meeting new people and exploring new games! </p>
+        <p className="p-4 pl-12 pr-12">I'm excited to keep learning, meet new people and exploring new games! </p>
 
         <p></p>
         </div>

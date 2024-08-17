@@ -18,7 +18,7 @@ export default function Animation() {
           ]}
     speed={{type: "keyStrokeDelayInMs", value: 30}}
     deletionSpeed={{type: "keyStrokeDelayInMs", value: 15}}
-    style={{ fontSize: "4.5vw", lineHeight: "4.5vw" }}
+    style={{ fontSize: "4.2vw", lineHeight: "4.2vw" }}
     repeat={0}
   />
 </div>)
