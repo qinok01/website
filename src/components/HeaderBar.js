@@ -13,14 +13,14 @@ export default function HeaderBar() {
   }
 
   return (
-    <div className="font-inter">
-      <nav className=" border-10 border-solid border-gray-200 text-xl font-sans">
-        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+    <div className="font-inter mx-auto">
+      <nav className="max-w-screen-3xl border-10 border-solid border-gray-200 sm:text-xl md:text-2xl lg:text-3xl font-sans ml-[10%] mr-[10%]">
+        <div className=" flex flex-wrap items-center justify-between p-4">
         
 
         
         <div >
-          <a className="font-semibold text-white" href="/">Noah Kim</a>
+          <a className="font-semibold text-white" href="/ ">Noah Kim</a>
         </div>
         <button onClick={handleBurger} data-collapse-toggle="navbar-default" type="button" className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200" aria-controls="navbar-default" aria-expanded="false">
         <span className="sr-only">Open main menu</span>

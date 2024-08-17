@@ -8,7 +8,7 @@ export default function Animation() {
     sequence={[
       "Hi! I'm Noah, a sophomore at Brown University studying Math-CS and Physics.",
       2000,
-      "Hi! I'm Noah, I chase challenges and enjoy having genuine honest conversations" ,
+      "Hi! I'm Noah, I chase challenges and enjoy having genuine conversations" ,
       2000,
       "Hi! I'm Noah, I enjoy taking cracks at interesting puzzles and competiting in imperfect information strategy games",
       2000, 
@@ -18,7 +18,7 @@ export default function Animation() {
           ]}
     speed={{type: "keyStrokeDelayInMs", value: 30}}
     deletionSpeed={{type: "keyStrokeDelayInMs", value: 15}}
-    style={{ fontSize: "4vw", lineHeight: "4vw" }}
+    style={{ fontSize: "4.5vw", lineHeight: "4.5vw" }}
     repeat={0}
   />
 </div>)

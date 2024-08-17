@@ -10,9 +10,9 @@ export default function Experience() {
         return(
             <div className="flex align-center">
             <div className="w-5/6">
-                <h1 className= "font-semibold text-2xl m-4">{data.title}</h1>
+                <h1 className= "font-semibold p-3 text-lg sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl m-4">{data.title}</h1>
                 
-                <ul className= "font-normal text-xl m-4 list-disc">
+                <ul className= "text-md font-normal sm:text-md md:text-lg lg:text-xl xl:text-2xl text-left m-4 list-disc">
                 {data.info && data.info.map((datum)=>{
                     return (<li className="ml-14 mr-14 mt-2">{datum}</li>)
 
@@ -20,7 +20,7 @@ export default function Experience() {
                 </ul>
 
             </div >
-                <img  className="w-1/6 h-1/6 m-3 mt-1  mr-20 rounded-md " src={data.img}/>
+                <img  className="w-1/5 h-1/5 m-3 mt-1  mr-20 rounded-md " src={data.img}/>
             </div>
         )
 
@@ -34,10 +34,10 @@ export default function Experience() {
         
         
         
-        <div className="max-w-screen-xl mx-auto">
+        <div className="max-w-screen-2xl mx-auto mt-16">
 
         
-            <h2 className="text-center font-semibold text-4xl mt-10" >Experience</h2>
+
             {resume && resume.details.map(resumeComponent)}
 
 
