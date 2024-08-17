@@ -4,7 +4,7 @@ import brown from "../assets/brown.png"
 import greenwich from "../assets/gwichHigh.png"
 
 export default function Education() {
-    return(
+    return( 
         <div className="animate-fade text-white bg-gradient-to-r from-black from-75% via-indigo-500 to-black min-h-screen">
         <HeaderBar/>
         <div className="max-w-screen-xl mx-auto">
