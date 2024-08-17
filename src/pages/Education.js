@@ -9,7 +9,7 @@ export default function Education() {
         <HeaderBar/>
         <div className="max-w-screen-2xl mx-auto">
         <div className="flex">
-        <div className="w-2/3 pt-2">
+        <div className="w-1/1 md:w-2/3 pt-2">
         <p className="p-3 text-xl font-semibold mt-10 sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center">
             Brown University
         </p>
@@ -21,11 +21,11 @@ export default function Education() {
 
         </p>
         </div>
-        <img  className="w-2/7 h-2/7 m-7 mt-16 mr-5 rounded-md justify-start" src={brown}/>
+        <img  className="hidden md:block w-2/7 h-2/7 m-7 mt-16 mr-5 rounded-md justify-start" src={brown}/>
         </div>
 
         <div className="flex mt-9">
-        <div className="w-2/3 pt-2">
+        <div className="w-1/1 md:w-2/3 pt-2">
         <p className="p-3 text-xl font-semibold mt-10 sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center">
             Greenwich High School
         </p>
@@ -39,7 +39,7 @@ export default function Education() {
 
         </p>
         </div>
-            <img  className="w-2/7 h-2/7 m-7 mt-4 mr-15 rounded-md justify-start" src={greenwich}/>
+            <img  className="hidden md:block w-2/7 h-2/7 m-7 mt-4 mr-15 rounded-md justify-start" src={greenwich}/>
         </div> 
            
 
