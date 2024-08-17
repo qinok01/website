@@ -29,7 +29,7 @@ export default function Experience() {
         
         
         
-        <div className="max-w-screen-xl mx-auto">
+        <div className="max-w-screen-xl mx-auto mt-16">
 
             <div className="w-5/6">
                 {projects && projects.details.map(projectComponent)}
